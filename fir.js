@@ -1,5 +1,5 @@
 //<![CDATA[
-var disqus_shortname="Firdaus Ismail";
+var disqus_shortname="caranya-internet";
 var disqus_url = disqus_blogger_current_url;
 
 (function () {
