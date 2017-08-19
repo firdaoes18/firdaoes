@@ -1,5 +1,5 @@
 //<![CDATA[
-var disqus_shortname="tirtamubien";
+var disqus_shortname="Firdaus Ismail";
 var disqus_url = disqus_blogger_current_url;
 
 (function () {
